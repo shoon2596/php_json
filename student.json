@@ -1,0 +1,23 @@
+{
+    "1": {
+        "name": "KoKo",
+        "email": "koko@gmail.com",
+        "gender": "Male",
+        "address": "Ygn",
+        "profile": "photo\/kagura.jpg"
+    },
+    "2": {
+        "name": "SLW",
+        "email": "aquapark21@gmail.com",
+        "gender": "Female",
+        "address": "Yhb",
+        "profile": "photo\/kagura.jpg"
+    },
+    "": {
+        "name": "hlahla",
+        "email": "hlahla@gmail.com",
+        "gender": "Female",
+        "address": "abc",
+        "profile": ""
+    }
+}
